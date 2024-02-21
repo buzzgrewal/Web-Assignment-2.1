@@ -21,7 +21,8 @@ not and provide hints using alerts to correct it.
 ## Sign-in-Sign-up-Page | SnapShots
 
 # Sign-in Page
-![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/4cca6dba-8d8a-439d-b589-b7b3803d16fd)
+![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/7e87970e-16c0-4059-b7fb-659962b2b6ca)
+
 # Sign-up Page
 ![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/16043cb2-2d09-4ad9-a31c-001d4ce5d2f8)
 # Nothing-Page 
@@ -44,7 +45,7 @@ not and provide hints using alerts to correct it.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-<p align="center"> © 2024 Saad Athar, All Rights Reserved. </p>
+<p align="center"> © 2024 Abdullah Grewal, All Rights Reserved. </p>
 <p align="center">
-https://github.com/SaadAthar04
+https://github.com/buzzgrewal
 </p>
