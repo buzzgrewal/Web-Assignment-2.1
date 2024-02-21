@@ -26,21 +26,29 @@ not and provide hints using alerts to correct it.
 # Sign-up Page
 ![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/16043cb2-2d09-4ad9-a31c-001d4ce5d2f8)
 # Nothing-Page 
-![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/a4347c81-e2f1-42a2-bbfe-f0d31a03673c)
+![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/13669169-b105-4b98-991b-045333fb3c3a)
+
 # UserName Validation
-![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/34fda0c7-6df0-465c-9360-5f96971b2b7f)
+![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/f62ba6a9-b19d-4e62-8c2a-83d7aec04f56)
+
 # Password Validation
-![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/eec19637-23c1-4360-82b1-5b1a32cd4a17)
+![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/fdd7f881-ec47-4fa1-bf84-b2af26e75025)
+
 # Email Validation
-![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/0bf07f0f-48ab-4bf1-8ca8-4cd814534810)
+![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/19a565f9-0842-4ce4-8157-49f0ae361234)
+
 # Phone Number Validation
-![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/f9e600e7-fe6a-4856-9ec9-71383081d1db)
+![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/fdbb6091-5b89-4696-a401-0ce2bcf4b8b2)
+
 # Age Validation
-![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/68b5bb2b-fc42-464a-932e-e734f49ff6a8)
+![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/284ccab8-f89a-4113-9a0c-1021c8018708)
+
 # Successful Sign-up
-![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/4f5930eb-5fd3-40e3-a0a1-17b31afd1610)
+![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/c8a6c822-5c30-416a-80e5-005a06980a2c)
+
 # Successful Sign-in
-![image](https://github.com/SaadAthar04/Sign-in-Sign-up-Page/assets/136602373/a55b35dc-2efb-4a9a-b0c0-974412a45b85)
+![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/33a34302-d6ea-48f5-b8a0-7079aa57eebd)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
