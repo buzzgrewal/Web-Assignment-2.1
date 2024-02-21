@@ -49,6 +49,13 @@ not and provide hints using alerts to correct it.
 # Successful Sign-in
 ![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/33a34302-d6ea-48f5-b8a0-7079aa57eebd)
 
+<a name="readme-top"></a>
+## Introduction
+
+# Basic Bootstrap webpage
+![image](https://github.com/buzzgrewal/Web-Assignment-2.1/assets/99383571/2294955b-0492-4057-8150-84f499852f28)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
