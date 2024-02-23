@@ -177,7 +177,7 @@ function resetbtn()
     document.getElementById("username").value = "";
     document.getElementById("password").value = "";
     document.getElementById("confirmpassword").value = "";
-    document.getElementById(genders).value = "";
+    document.getElementById("genders").value = "";
     document.getElementById("email").value = "";
     document.getElementById("phone").value = "";
     document.getElementById("dataofbirth").value = "";
